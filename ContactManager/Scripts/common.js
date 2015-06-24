@@ -1,0 +1,1 @@
+﻿jQuery(".site-title").text("Mahesh Wagh");
